@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tawhidrahman292
-- 👀 I’m interested in Data science Machine learning
+- 👀 I’m interested in Data science & Machine learning
 - 🌱 I’m currently learning ...Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...tawhidrahman292@gmail.com
